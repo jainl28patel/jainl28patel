@@ -13,6 +13,7 @@
 <hr>
 
 ### 🔭 Looking to learn ...
+* Web3
 * Computer Graphics
 * Computer Networking
 
