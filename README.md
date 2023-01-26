@@ -23,9 +23,8 @@
 
 <br>
 <br> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainl28patel&layout=compact)](https://github.com/jainl28patel/github-readme-stats)
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainl28patel)](https://github.com/jainl28patel/github-readme-stats)
 <hr>
 
 <!--
