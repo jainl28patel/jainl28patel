@@ -7,15 +7,10 @@
 
 ### Interested In
 * Open Source softwares
+* Computer Systems
 * Computer Graphics
 * Software Development
-
-<hr>
-
-### 🔭 Looking to learn ...
 * Web3
-* Computer Graphics
-* Cloud
 
 <hr>
 
