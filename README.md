@@ -1,14 +1,14 @@
 ### About Me 😄
 * Hey there, I am Jainil Patel.
-* A 2nd Year Undergraduate student in Computer Science and Technology at [IIT Roorkee](https://www.iitr.ac.in).
+* A Final Year Undergraduate student in Computer Science and Technology at [IIT Roorkee](https://www.iitr.ac.in).
 * Developer at [SDSLabs](https://github.com/sdslabs).
 
 <hr>
 
 ### Interested In
 * Open Source softwares
-* Computer Systems
-* Computer Graphics
+* Computer Systems & Networking
+* Cloud
 * Software Development
 * Web3
 
