@@ -10,7 +10,6 @@
 * Computer Systems & Networking
 * Cloud
 * Software Development
-* Web3
 
 <hr>
 
