@@ -1,14 +1,16 @@
 ### About Me 😄
 * Hey there, I am Jainil Patel.
-* A Final Year Undergraduate student in Computer Science and Technology at [IIT Roorkee](https://www.iitr.ac.in).
+* A Undergraduate student in Computer Science and Technology at [IIT Roorkee](https://www.iitr.ac.in).
+* Currently working as a Systems engineer at a [Quadeye](https://www.quadeye.com/) building low latency trading systems.
+* I have experience working as a Systems research intern at Imperial College London where I worked on userspace policy enforcement and verification of eBPF programs.
 * Developer at [SDSLabs](https://github.com/sdslabs).
 
 <hr>
 
 ### Interested In
 * Open Source softwares
+* eBPFs and low latency C++
 * Computer Systems & Networking
-* Cloud
 * Software Development
 
 <hr>
